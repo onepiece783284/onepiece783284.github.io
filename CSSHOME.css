@@ -1,0 +1,35 @@
+#o{background-color: rgb(0, 250, 239);}
+.ne{font-size: 80px;font-family: Roboto Mono,sans-serif;background-color: yellow;text-shadow: 3px 5px red;}
+.r{width: 1300px;height:400px;background-color: white;float: right;}
+.s{font-size: 50px;background-color: red;}
+.g{font-size: 25px}
+
+
+
+.shell{
+	width:50px;
+	height:750px;
+	display: inline-block;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+    background-color: darkgrey;
+    border-radius: 10px;
+    transition:.3s;
+    overflow: hidden;
+}
+.shell:hover{background-color:black}
+.shell:hover{width: 150px}
+
+.box{display: block;
+height:15%;
+width:90%;
+margin:9px;
+border-radius: 5px;
+position:relative;
+transition: .3s;
+color: white;
+text-decoration: none;}
+.box:hover{color:white;
+background-color: pink;
+font-size: 17px}
