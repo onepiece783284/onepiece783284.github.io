@@ -1,0 +1,11 @@
+.one{font-size: 200px;font-family: 'Ubuntu', sans-serif;color: white;color: rgb(250, 121, 0);}
+#b{background-image:url(AI.jpeg);background-repeat:no-repeat;background-size:cover;}
+.two{ float: left;width: 300px;height: 300px}
+.three{width: 1500px;height:400px;background-color: white;float: left;}
+.five{font-size: 50px;font-family: 'Kanit',sans-serif;}
+.six{font-size:20px;}
+.seven{margin-top: 50px;width: 700px;height:400px;background-color: rgb(246, 250, 0);float: right;}
+.eight{margin-top: 100px;width:1500px;height:400px;background-color: white;float: left;}
+.nine{margin-top: 50px;width: 700px;height:400px;background-color: rgb(67, 28, 245);float: left;opacity: 0.8}
+.ten{font-size: 150px;font-family: 'Ubuntu', sans-serif;color: white;color: rgb(250, 121, 0);}
+#a{background-image:url(b2.jpeg);}
